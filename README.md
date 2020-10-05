@@ -5,3 +5,4 @@ The lab materials are provided from CSC1100 & CSC1101 class at Wayne State Unive
 -----**Notable Labs** ------
 **Lab 06** 01/Currency Converter - 02/Temperature at Altitude Calculator &
 **Lab 07** GPA Calculator &
+**Lab 08** Sales Calculator &
