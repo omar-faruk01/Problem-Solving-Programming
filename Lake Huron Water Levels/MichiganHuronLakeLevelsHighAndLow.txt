@@ -1,0 +1,4 @@
+                                              Year      Level (meters)
+Max Level:                                    1886             177.389
+Min Level:                                    1964             175.682
+Average  Level:                                                176.573
